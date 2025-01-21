@@ -8,7 +8,7 @@ class MovieAdmin(admin.ModelAdmin):
         'id',
         'title',
         'genre',
-        'relase_date',
+        'release_date',
         'resume',
     )
 
